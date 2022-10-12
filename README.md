@@ -1,5 +1,5 @@
 # UG-SportsApp
-## A Simple Application to give sports updates to UG students🤭. Just a basic application written in Swift and SwiftUI 
+## A Simple Application to give sports updates to UG students. Just a basic application written in Swift and SwiftUI 
 
 ### Sample Screens In Application
 ___
@@ -10,3 +10,5 @@ ___
 <img width="397" alt="4" src="https://user-images.githubusercontent.com/85578453/195176871-c7156e43-c46d-4802-bab7-abe296f97b18.png">
 <img width="396" alt="5" src="https://user-images.githubusercontent.com/85578453/195176935-e81b3ec4-6ae0-4d2c-936d-56585fbb5007.png">
 <img width="401" alt="6" src="https://user-images.githubusercontent.com/85578453/195177028-cad08ee2-b19a-4e11-aa11-cc994b9352ba.png">
+
+### Feel free to use this repo 🚀 👨🏾‍💻
